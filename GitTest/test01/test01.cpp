@@ -6,5 +6,6 @@ int main(void)
 
 	printf("onakasuita-\n");
 
+	printf("‚ß‚¿‚á‚­‚¿‚á‚É‚¸‚Â‚¤");
 	return 0;
 }
